@@ -17,10 +17,10 @@ export default defineConfig({
         orientation: "portrait",
         start_url: "/",
         icons: [
-          { src: "icône-192.png", sizes: "192x192", type: "image/png" },
-          { src: "icône-512.png", sizes: "512x512", type: "image/png" },
+          { src: "icone-192.png", sizes: "192x192", type: "image/png" },
+          { src: "icone-512.png", sizes: "512x512", type: "image/png" },
         ],
       },
     }),
   ],
-});
+})
